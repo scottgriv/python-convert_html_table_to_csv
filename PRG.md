@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Python, HTML, CSV, Beautiful Soup <br>
 **Category:** Utility Script <br>
-**Order:** 0 <br>
+**Order:** 10 <br>
 
 ## Parameters
 
