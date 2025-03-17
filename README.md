@@ -29,6 +29,7 @@ Convert a HTML Table into a CSV file using Python.
 - [Getting Started](#getting-started)
     - [Installation](#installation)
     - [Usage](#usage)
+- [Disclaimer](#disclaimer)
 - [Resources](#resources)
 - [License](#license)
 - [Credits](#credits)
@@ -53,6 +54,15 @@ python3 main.py
 
 - The `.csv` file will output in the same folder as your script. You can modify the output `.csv` file name or location by updating the ``output_path`` variable in ``main.py``.
 - Be sure sure to modify ``main.py`` by changing the ``path`` variable to the website URL or web page you're trying to parse the HTML from.
+
+## Disclaimer
+
+> [!IMPORTANT]
+> This tool is not intended to break copyright laws and is for personal use only. It merely automates the retrieval of publicly available data using standard web scraping techniques.
+> The copyright of the data retrieved belongs to its respective owners, and I am not responsible for any illegal redistribution or misuse of data obtained using this tool.
+
+> [!CAUTION]
+> Use of this tool is at your own risk. By using this tool, you agree that you are solely responsible for any legal issues that may arise from your use of this tool.
 
 ## Resources
 
